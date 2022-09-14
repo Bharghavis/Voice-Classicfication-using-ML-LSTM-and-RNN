@@ -1,4 +1,0 @@
-tensorflow==2.8.2
-numpy==1.21.6
-streamlit==1.12.2
-librosa==0.8.1
